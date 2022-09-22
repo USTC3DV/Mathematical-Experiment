@@ -1,3 +1,4 @@
 # Homework
 
-See the corresponding PDF about specific requirements for each Homework.
+- 每次作业的具体要求与说明请参见相应的 PDF 说明要求；
+- 在相应文件夹下，有对应作业的代码框架以及配置说明，请跟随提示配置相应环境以及实现作业要求！
