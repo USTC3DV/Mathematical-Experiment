@@ -4,7 +4,7 @@
 
 #### 1. [图像直⽅图操作 & 图像卷积与滤波](https://github.com/USTC3DV/Mathematical-Experiment/tree/main/Homework/Homework%2001)
 
-#### 2. [图像的泊松融合 & 基于0范数的图像光滑](./Homework 02)
+#### 2. [图像的泊松融合 & 基于0范数的图像光滑](https://github.com/USTC3DV/Mathematical-Experiment/tree/main/Homework/Homework%2002)
 
 #### 3. [图像拼接](./Homework 03)
 
