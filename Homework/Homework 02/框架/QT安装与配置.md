@@ -4,7 +4,7 @@
 -   打开[官网](https://www.qt.io/)
 -   点击右上角的 "Download. Try. Buy"
 -   点击 "Downloads for open sources users" 的 "Go open source"，拉到最下进行下载
-![qt|500](../imgs/qt.png)
+![qt|300](../imgs/qt.png)
 安装（此时需要登录)
 -   打开下载器，选择 Qt 5.15.2 的 MSVC 2019 64-bit
 -   将 `YOUR_PATH_TO/Qt/5.15.2/msvc2019_64/bin` 加入到环境变量 `Path` 中 [参考](https://blog.csdn.net/weixin_37204973/article/details/82504570)
