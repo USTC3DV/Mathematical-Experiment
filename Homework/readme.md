@@ -8,6 +8,8 @@
 
 ### 3. [图像拼接](https://github.com/USTC3DV/Mathematical-Experiment/tree/main/Homework/Homework%2003)
 
+### 4. [三维稠密点云重建](https://github.com/USTC3DV/Mathematical-Experiment/tree/main/Homework/Homework%2004)
+
  
 
 - 作业的具体要求与说明请参见相应的 PDF 文档；
