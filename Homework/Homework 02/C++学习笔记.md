@@ -6,7 +6,7 @@
 - 定义一个类，本质上是定义一个数据类型的蓝图，定义了类的对象包括了什么，以及可以在这个对象上执行哪些操作。
 <table frame=void>  <!--使用table标签，且frame=void消除外边框-->
     <tr>           <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
-    <td><center><img src=".\imgs\c-class.png"   
+    <td><center><img src=".\imgs\c_class.png"   
                      width="280.8" height="166.2"/></center></td>   <!--<center>标签将图片居中-->
     </tr>
 </table>
@@ -61,7 +61,7 @@
 - 关键字 ==public== 确定了类成员的访问属性。在类对象作用域内，公共成员在类的外部是可访问的。
 
 ### 访问数据成员
-![class-get|500](./imgs/c-class-get.png)
+![class-get|500](./imgs/c_class-get.png)
 - 需要注意的是，私有的成员和受保护的成员不能使用直接成员访问运算符 `(.)` 来直接访问。
 
 ### 类 & 对象详解
