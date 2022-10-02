@@ -4,7 +4,7 @@
 
 ### C++ 类定义
 - 定义一个类，本质上是定义一个数据类型的蓝图，定义了类的对象包括了什么，以及可以在这个对象上执行哪些操作。
-![class]([./imgs/c-class.png](https://github.com/USTC3DV/Mathematical-Experiment/blob/main/Homework/Homework%2002/imgs/c-class-get.png))
+![./imgs/c-class.png](https://github.com/USTC3DV/Mathematical-Experiment/blob/main/Homework/Homework%2002/imgs/c-class-get.png)
 - 类定义后必须跟着一个分号或一个声明列表。例如，我们使用关键字 **class** 定义 Box 数据类型，如下所示：
 ```C++
     class Box 
