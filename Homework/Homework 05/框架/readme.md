@@ -1,6 +1,6 @@
 # 视频稳像（video stabilization）
 
-方法来自论文Bundled Camera Paths for Video Stabilization。
+方法来自论文[Bundled Camera Paths for Video Stabilization](https://github.com/USTC3DV/Mathematical-Experiment/blob/main/Homework/Homework%2005/%E6%A1%86%E6%9E%B6/Stabilization_SIGGRAPH13.pdf)。
 
 - 视频稳像,是指利用相关的算法,对视频设备采集的原始视频序列进行处理,去除其中的抖动。
 
