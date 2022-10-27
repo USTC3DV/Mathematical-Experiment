@@ -10,6 +10,8 @@
 
 ### 4. [三维稠密点云重建](https://github.com/USTC3DV/Mathematical-Experiment/tree/main/Homework/Homework%2004)
 
+### 5. [视频稳像（video stabilization）](https://github.com/USTC3DV/Mathematical-Experiment/tree/main/Homework/Homework%2005)
+
  
 
 - 作业的具体要求与说明请参见相应的 PDF 文档；
