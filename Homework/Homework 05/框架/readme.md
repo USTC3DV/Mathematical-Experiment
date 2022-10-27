@@ -34,4 +34,5 @@
 
 #### `ffmpeg`安装：
 
+- 先下载[ffmpeg](https://rec.ustc.edu.cn/share/1ccbe0b0-5601-11ed-9e84-0bfcd5fa352e)
 - 解压 `ffmpeg-2022-10-10-git-f3b5277057-full_build.7z`，并选择 `Path` 变量，点击编辑按钮，在其原始内容后输入 `ffmpeg` 的 `bin` 路径。例如：`D:/ffmpeg-2022-10-10-git-f3b5277057-full_build/bin`
