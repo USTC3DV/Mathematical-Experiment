@@ -2,7 +2,7 @@
 
 ## 内容如下：
 
-- 阅读论文
+- 阅读论文[Bundled Camera Paths for Video Stabilization](https://github.com/USTC3DV/Mathematical-Experiment/blob/main/Homework/Homework%2005/%E6%A1%86%E6%9E%B6/Stabilization_SIGGRAPH13.pdf)
   - 数据集已提供了每张拍摄图⽚相机的内参，可以直接读取，具体惨⻅[数据说明文档](https://vision.middlebury.edu/mview/data/)；
   - 采⽤ [08_UncalibratedStereo.pdf](../../PPT/08-UncalibratedStereo.pdf) 课件中的⽅法，每次以两张图⽚作为输⼊（某张图⽚固定）来恢复每个视⻆的点云，然后根据相机变换，将不同的视⻆的点云放在⼀个统⼀的坐标系下;
   - 需计算两张图⽚之间的相机变换，以及稠密点云恢复;
